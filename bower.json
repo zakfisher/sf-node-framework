@@ -1,0 +1,22 @@
+{
+  "name": "sf-node-framework",
+  "version": "0.0.0",
+  "homepage": "https://github.com/zakfisher/sf-node-framework",
+  "authors": [
+    "Zak Fisher <zak@super-fantastic.com>"
+  ],
+  "description": "Launchpad for SF Web Projects, Including built-in User Auth with Stormpath",
+  "main": "app.js",
+  "keywords": [
+    "express",
+    "stormpath"
+  ],
+  "license": "MIT",
+  "ignore": [
+    "**/.*",
+    "node_modules",
+    "bower_components",
+    "test",
+    "tests"
+  ]
+}
